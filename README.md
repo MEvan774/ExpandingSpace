@@ -1,8 +1,7 @@
 # ExpandingSpace
 SchoolProject Leerjaar1
 
-DownloadLink nieuwste versie: https://drive.google.com/drive/folders/1IdxC1eCGmFfMmJ1sfZGJvHbPMi9c9qd4
-
+DownloadLink nieuwste versie: https://drive.google.com/drive/folders/1yJHZosfb5_yXy76DoBnFPk6NeglJnkgV?usp=sharing
 Controls zijn:
 W,A,S,D om te bewegen
 Spatie om te schieten
